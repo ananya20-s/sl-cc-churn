@@ -1,4 +1,4 @@
-# sl-cc-churn
+# Credict Card Churn Prediction
 
 ## Problem Statement
 The Thera bank recently saw a steep decline in the number of users of their credit card.
