@@ -1,6 +1,6 @@
 # Credit Card Customer Churn Prediction
 
-/images/cc.avif
+(/images/cc.avif)
 
 ## Objective
 
