@@ -1,7 +1,5 @@
 # Credit Card Customer Churn Prediction
 
-(/images/cc.avif)
-
 ## Objective
 
 The aim of this project is to develop and deploy a machine learning model that can predict whether or not a customer will renounce their credit cards.
