@@ -1,6 +1,5 @@
 # Credit Card Customer Churn Prediction
 
-/images/cc.avif
 
 ## Objective
 
@@ -20,7 +19,8 @@ The dataset contains different details like customer age, gender, education, inc
 ## Results
 - Provide Business Insights and Recommendation to prevent customer churn
 - Build a pipeline and save model
-- Build RestFul API using Flask
+- Build API using Flask
+- Deploy using Docker
 - Test the API
 
 ## Findings
@@ -38,7 +38,7 @@ The credit card customers with below attributes are higher risk of leaving the b
 - Data analysis to derive Business insights
 - Model Building and Evaluation
 - Cross Validation and Hyperparameter Tuning
-- Deploy the model using API on Flask
+- Deploy the model using Docker
 
 ## Next Steps
 Deploy the API on a Cloud based platform for better availability and scalibility.
